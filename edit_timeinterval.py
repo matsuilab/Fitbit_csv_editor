@@ -1,7 +1,6 @@
 # csvの整形
 
 import pandas as pd
-import scipy
 import os
 
 input_filepath = 'C:\\Users\\sakai\\Desktop\\workshop\\Fitbit\\output\\'
